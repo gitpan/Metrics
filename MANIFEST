@@ -1,0 +1,13 @@
+LICENSE
+MANIFEST
+META.yml
+Makefile.PL
+README
+README.md
+dist.ini
+lib/Metrics.pm
+lib/Metrics/Collector.pm
+lib/Metrics/Collector/HASH.pm
+lib/Metrics/Collector/Statsd.pm
+lib/Metrics/Counter.pm
+t/counter.t
